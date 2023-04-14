@@ -144,3 +144,19 @@
   .winner {
     animation: rainbow 4s infinite linear;
   }
+
+#rules {
+  margin-top: 40px;
+}
+
+#rules h2 {
+  text-align: center;
+}
+
+#rules ol {
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  margin: 0 auto;
+  padding-inline-start: 100px;
+}
